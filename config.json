@@ -1,0 +1,8 @@
+{
+      "developerGuild": "1083419957532033155",
+    "activityInterval": 5,
+    "botMainColor": "0xff5454",
+    "botErrorColor": "0xdb3535",
+    "token": "",
+    "mongodb": "your mondgo db"
+}
